@@ -1,0 +1,101 @@
+[
+{
+    "source": "book",
+    "title": "Travel Guide to Caratland",
+    "upc": "null",
+    "subject": "Travelling",
+    "isbn": "9876-9080-09",
+    "authors": "KSY",
+    "dds_number": "00909076"
+},
+{
+    "source": "book",
+    "title": "Menjadi Seorang Positif",
+    "upc": "null",
+    "subject": "Psikologi",
+    "isbn": "9876-9080-06",
+    "authors": "Laila T.",
+    "dds_number": "0000006"
+},
+{
+    "source": "book",
+    "title": "Menjadi Pemimpin yang Bijak",
+    "upc": "null",
+    "subject": "Leadership",
+    "isbn": "9876-9080-01",
+    "authors": "CSC",
+    "dds_number": "0000001"
+},
+{
+    "source": "magazine",
+    "title": "VOGUE",
+    "upc": "null",
+    "subject": "Edisi 22 Juli",
+    "volume": "XXII",
+    "issue": "null"
+},
+{
+    "source": "magazine",
+    "title": "BAZAAR",
+    "upc": "null",
+    "subject": "Edisi 15 Juni",
+    "volume": "XV",
+    "issue": "null"
+},
+{
+    "source": "magazine",
+    "title": "SPOTLIGHT - Spesial Caratland",
+    "upc": "null",
+    "subject": "Edisi 4 Oktober",
+    "volume": "IV",
+    "issue": "null"
+},
+{
+    "source": "dvd",
+    "title": "Power of Love",
+    "upc": "null",
+    "subject": "Concet DVD",
+    "actors": "Seventeen",
+    "director": "Kim Mingyu & Jeon Wonwoo",
+    "genre": "Musical"
+},
+{
+    "source": "dvd",
+    "title": "THE BEST DAY",
+    "upc": "null",
+    "subject": "K-Pop",
+    "actors": "DAY6",
+    "director": "Park Sungjin",
+    "genre": "Biography"
+},
+{
+    "source": "dvd",
+    "title": "Forever in Caratland",
+    "upc": "null",
+    "subject": "Concet DVD",
+    "actors": "Seventeen",
+    "director": "Caratdeul",
+    "genre": "Documenter"
+},
+{
+    "source": "cd",
+    "title": "Remember Us",
+    "upc": "null",
+    "subject": "null",
+    "artist":"DAY6"
+},
+{
+    "source": "cd",
+    "title": "DYE",
+    "upc": "null",
+    "subject": "null",
+    "artist":"GOT7"
+},
+{
+    "source": "cd",
+    "title": "Caratland: Repackage Album",
+    "upc": "null",
+    "subject": "null",
+    "artist":"Seventeen"
+}
+]
